@@ -1,0 +1,17 @@
+
+/* @import "tw-animate-css"; */
+
+/* @custom-variant dark (&:is(.dark *)); */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+@layer components {
+  .input {
+    @apply w-full border px-3 py-2 rounded focus:outline-none focus:ring-2 focus:ring-indigo-400;
+  }
+}

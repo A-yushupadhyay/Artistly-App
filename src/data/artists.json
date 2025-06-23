@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Riya Sharma",
+    "category": "Singer",
+    "location": "Delhi",
+    "fee": 15000,
+    "image": "/images/singer.jpg"
+  },
+  {
+    "id": 2,
+    "name": "DJ Arjun",
+    "category": "DJ",
+    "location": "Mumbai",
+    "fee": 20000,
+    "image": "/images/dj.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Neha Verma",
+    "category": "Dancer",
+    "location": "Delhi",
+    "fee": 10000,
+    "image": "/images/dancer.jpg"
+  },
+  {
+    "id": 4,
+    "name": "MC Raj",
+    "category": "Anchor",
+    "location": "Bangalore",
+    "fee": 12000,
+    "image": "/images/anchor.jpg"
+  }
+]
