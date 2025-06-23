@@ -1,36 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎧 Artistly – Eventful India Frontend Assignment
 
-## Getting Started
+A responsive web application built as a frontend assignment for Eventful India. It allows artist discovery, onboarding, and admin management using modern React + Next.js architecture.
 
-First, run the development server:
+Home 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Screenshot (330)](https://github.com/user-attachments/assets/27665c71-a094-4f91-850b-975189b9a935)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Artists 
+![Screenshot (331)](https://github.com/user-attachments/assets/18496e30-bbe0-498f-b81f-b879b855e7ac)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Onboard Form 
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![Screenshot (332)](https://github.com/user-attachments/assets/e1495512-ad69-444f-9754-fc050fb350dc)
 
-## Learn More
+Dashboard
 
-To learn more about Next.js, take a look at the following resources:
+![Screenshot (333)](https://github.com/user-attachments/assets/5bdc5441-634d-4f85-a51d-8ee38230291e)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+
+
+---
+
+## 🚀 Live Demo
+
+👉 [View on Vercel]((https://artistly-app-eight.vercel.app/))
+
+---
+
+## 📌 Features
+
+- ✅ Artist listing page with category-based filters
+- ✅ Artist onboarding form with validation
+- ✅ Manager dashboard to view artist submissions
+- ✅ Responsive and accessible layout
+- ✅ Fully deployed on Vercel
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech | Description |
+|------|-------------|
+| **Next.js 15** | App Router (src/app) |
+| **React** | Functional components with hooks |
+| **Tailwind CSS** | Utility-first styling |
+| **ShadCN UI** | Modern UI components |
+| **React Hook Form** | Form handling and validation |
+| **TypeScript** | Type-safe development |
+| **Vercel** | Hosting and CI/CD |
+
+---
+
+## 📂 Folder Structure
+
+artistly-app/
+├── src/
+│ ├── app/
+│ │ ├── page.tsx # Homepage
+│ │ ├── artists/ # Listing page
+│ │ ├── onboard/ # Form page
+│ │ └── dashboard/ # Manager view
+│ ├── components/ # UI components
+│ └── data/ # Static JSON data
+├── public/ # Static images
+├── tailwind.config.js # Tailwind config
+├── postcss.config.js # PostCSS plugins
+└── package.json
+
+
+
+Visit: http://localhost:3000
+
+
+🙋 Author
+Ayush Upadhyay
+B.Tech CSE – BIET
+puskaru202@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
