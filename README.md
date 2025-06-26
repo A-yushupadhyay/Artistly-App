@@ -2,6 +2,9 @@
 
 A responsive web application built as a frontend assignment for Eventful India. It allows artist discovery, onboarding, and admin management using modern React + Next.js architecture.
 
+
+Live Demo - https://artistly-app-eight.vercel.app/
+
 Home 
 
 ![Screenshot (330)](https://github.com/user-attachments/assets/27665c71-a094-4f91-850b-975189b9a935)
